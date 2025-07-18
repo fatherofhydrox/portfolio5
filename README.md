@@ -22,6 +22,3 @@
 * Unique and Dynamic Design.
 * Contains HOME, ABOUT, SERVICES,CONTACT  and many other sections.
 
-## Project Preview:
-
-(https://mian-ali.github.io/protfolio2/)
